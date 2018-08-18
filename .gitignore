@@ -9,11 +9,8 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-.env
-todo.md
 /public/js/admin
 /public/js/app
 /public/fonts
 /public/package.json
-npm
 /public/mix-manifest.json
