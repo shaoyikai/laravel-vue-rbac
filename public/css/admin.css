@@ -1,0 +1,18 @@
+body#admin-body {
+  font-family: "Microsoft YaHei","Helvetica Neue" ,Helvetica,"PingFang SC","Hiragino Sans GB","\5FAE\8F6F\96C5\9ED1",Arial,sans-serif;
+}
+
+.layout {
+  background: #f5f7f9;
+  position: relative;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* transfer modal */
+
+.ivu-transfer .ivu-transfer-list {
+  width: 500px;
+  height: 360px;
+}
+
